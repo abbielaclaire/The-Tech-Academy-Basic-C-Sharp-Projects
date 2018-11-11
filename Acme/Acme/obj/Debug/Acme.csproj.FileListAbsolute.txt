@@ -5,3 +5,10 @@ C:\Users\abbie\Desktop\Tech Academy\CSharp\Acme\Acme\bin\Debug\Acme.exe
 C:\Users\abbie\Desktop\Tech Academy\CSharp\Acme\Acme\bin\Debug\Acme.pdb
 C:\Users\abbie\Desktop\Tech Academy\CSharp\Acme\Acme\obj\Debug\Acme.exe
 C:\Users\abbie\Desktop\Tech Academy\CSharp\Acme\Acme\obj\Debug\Acme.pdb
+C:\Users\abbie\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Acme\Acme\bin\Debug\Acme.exe.config
+C:\Users\abbie\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Acme\Acme\bin\Debug\Acme.exe
+C:\Users\abbie\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Acme\Acme\bin\Debug\Acme.pdb
+C:\Users\abbie\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Acme\Acme\obj\Debug\Acme.csprojAssemblyReference.cache
+C:\Users\abbie\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Acme\Acme\obj\Debug\Acme.csproj.CoreCompileInputs.cache
+C:\Users\abbie\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Acme\Acme\obj\Debug\Acme.exe
+C:\Users\abbie\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Acme\Acme\obj\Debug\Acme.pdb
