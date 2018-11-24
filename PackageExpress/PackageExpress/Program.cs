@@ -56,7 +56,7 @@ namespace PackageExpress
             {
                 decimal quote = ((sum * weightpkg) / 100);
                 string money1 = String.Format("{0:C}", quote);
-                Console.WriteLine("Your shipping cost will be " + money1 + ".");
+                Console.WriteLine("Your shipping cost will be " + money1 + ". Thank you!");
                 Console.ReadLine();
             }
         }
